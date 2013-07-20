@@ -15,5 +15,6 @@ public class App
         log.info("Prueba de modificacion de clase");
         log.info("Log 2 modificacion de archivo para probar cambios");
         log.info("Que onda4");
+        log.info("Este es un log integrado desde MAC");
     }
 }
